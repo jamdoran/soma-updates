@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Soma</title>
+    <link>https://github.com/jamdoran/soma-updates</link>
+    <language>en</language>
+    <item>
+      <title>Soma 1.0 (529)</title>
+      <pubDate>Fri, 06 Nov 2026 16:53:15 +0000</pubDate>
+      <sparkle:version>529</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (529)</h3><ul>
+<li>The first build that updates itself: Soma › Check for Updates…, and Settings › General › Updates.</li>
+<li>Help: the user guide inside Soma (Help › Soma Help, ⌘?).</li>
+<li>Link to a note from any notes box by typing [[.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b529/Soma-529.zip" type="application/octet-stream" sparkle:edSignature="p6FRmTbl7JbBty3+dmNHn3J8zFw+xDPU7mu9aI8ir9cGUmjukYv7l/0/SzbULSWG7c9SeYYrJYSrneF5PwYYAw==" length="63995336"/>
+    </item>
+  </channel>
+</rss>
