@@ -1,0 +1,11 @@
+    <item>
+      <title>Soma 1.0 (571)</title>
+      <pubDate>Sat, 07 Nov 2026 15:04:12 +0000</pubDate>
+      <sparkle:version>571</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (571)</h3><ul>
+<li>Backups now appear in the Log (made, failed, and old ones removed), and Cortex can answer questions about them. Bullets no longer jump a space when you start typing. Shift-Up and Shift-Down now show the selection in notes.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b571/Soma-571.zip" type="application/octet-stream" sparkle:edSignature="xpi40iBHpzZXZ/sE2WhYKie56p2i8i9xCxpdvqWuhmD2XBPL7hkxv15bMrT6yQodj0fPho5Ed0p+LgErE7y8BQ==" length="64023606"/>
+    </item>
