@@ -1,0 +1,12 @@
+    <item>
+      <title>Soma 1.0 (576)</title>
+      <pubDate>Sat, 07 Nov 2026 17:56:50 +0000</pubDate>
+      <sparkle:version>576</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (576)</h3><ul>
+<li>Fixed a bug related to text selection in notes.</li>
+<li>Added this What’s New screen following updates.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b576/Soma-576.zip" type="application/octet-stream" sparkle:edSignature="QV5Uyg27vfohm6aa3IiH5enfCHf6duyMbQf7uNACEOfIeaUzsC9saxJOoQ1z3fpex8ocjN3+VIRHXe4OSeewAA==" length="64059401"/>
+    </item>
