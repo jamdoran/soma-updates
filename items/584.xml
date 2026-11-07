@@ -1,0 +1,11 @@
+    <item>
+      <title>Soma 1.0 (584)</title>
+      <pubDate>Sat, 07 Nov 2026 19:47:12 +0000</pubDate>
+      <sparkle:version>584</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (584)</h3><ul>
+<li>Updated the Connections visualiser in Metrics.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b584/Soma-584.zip" type="application/octet-stream" sparkle:edSignature="poyzq55iZ/2eIQQ9x1C27P1L6Q8gAyjaKhhR6p6qDB0H9KU0LUy7AeZvD4z08SysVR4T2ULTuKO447gVtFvHBg==" length="64142554"/>
+    </item>
