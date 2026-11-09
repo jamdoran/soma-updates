@@ -5,6 +5,17 @@
     <link>https://github.com/jamdoran/soma-updates</link>
     <language>en</language>
     <item>
+      <title>Soma 1.0 (606)</title>
+      <pubDate>Mon, 09 Nov 2026 12:22:04 +0000</pubDate>
+      <sparkle:version>606</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (606)</h3><ul>
+<li>Changes to initial setup process</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b606/Soma-606.zip" type="application/octet-stream" sparkle:edSignature="jIaA8YUs9HVHUI/XEiWTkRsZvkm5icq79qYgi5QFiYyTMYO1vEpWu9L1QIWjiYTnddhOwmBFFH16qIrNlNqQBA==" length="64316214"/>
+    </item>
+    <item>
       <title>Soma 1.0 (600)</title>
       <pubDate>Mon, 09 Nov 2026 09:59:50 +0000</pubDate>
       <sparkle:version>600</sparkle:version>
