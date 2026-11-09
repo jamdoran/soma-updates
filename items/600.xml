@@ -1,0 +1,13 @@
+    <item>
+      <title>Soma 1.0 (600)</title>
+      <pubDate>Mon, 09 Nov 2026 09:59:50 +0000</pubDate>
+      <sparkle:version>600</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (600)</h3><ul>
+<li>The people picker has People, Teams and Groups tabs, and you can add a team anywhere you add people.</li>
+<li>A person’s page now shows the work of the groups they’re in.</li>
+<li>Added appearance styles: 11 light and 10 dark, each with its own accent colour, including Soft White and Soft Dusk.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b600/Soma-600.zip" type="application/octet-stream" sparkle:edSignature="o+5nRHvc4JWD4CwFwSCJc9gBnvnUAmNnFVjhMhXluJnDsoeLCCSQSSxNoENf2QY5JIGEWhuuTFEGh+hoNWGcBg==" length="64290912"/>
+    </item>
