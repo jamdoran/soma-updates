@@ -5,6 +5,23 @@
     <link>https://github.com/jamdoran/soma-updates</link>
     <language>en</language>
     <item>
+      <title>Soma 1.0 (651)</title>
+      <pubDate>Wed, 11 Nov 2026 22:53:26 +0000</pubDate>
+      <sparkle:version>651</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (651)</h3><ul>
+<li>New Hierarchy in People &amp; Teams: drag teams onto a canvas, connect them to show who reports to whom, and add labelled boxes to group teams. Drag the background to move around; ⌘-scroll or pinch to zoom.</li>
+<li>Export a hierarchy to a file and import it again, here or on another Mac. Importing adds any teams and people that are missing, and merges teams with the same name.</li>
+<li>Star the people you work with often. They’re listed under Regular Contacts, and Soma suggests them first when you pick people.</li>
+<li>People &amp; Teams’ sidebar sections now open and close.</li>
+<li>Edit the list of functions in Settings › People.</li>
+<li>Cisco people show the Cisco logo on their card.</li>
+<li>On iPhone and iPad: teams in People, a format bar above the keyboard in notes, pull down to search, and tap a note’s image to see it full screen.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b651/Soma-651.zip" type="application/octet-stream" sparkle:edSignature="K4GiLyZaDTHQf05W7q21UtWbi+pyTSPsq0RFaDIhiClcyREXBGhPJ3BRl5v9dzXcUS/P/GBqUbdvKZSVCpmbDg==" length="65358375"/>
+    </item>
+    <item>
       <title>Soma 1.0 (606)</title>
       <pubDate>Mon, 09 Nov 2026 12:22:04 +0000</pubDate>
       <sparkle:version>606</sparkle:version>
