@@ -1,0 +1,18 @@
+    <item>
+      <title>Soma 1.0 (748)</title>
+      <pubDate>Tue, 17 Nov 2026 10:54:35 +0000</pubDate>
+      <sparkle:version>748</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (748)</h3><ul>
+<li>Performance and feature improvements to People Hierarchy</li>
+<li>Added Document Briefcase - keep track of those key documents</li>
+<li>Smart Lists for People based on team</li>
+<li>Fine tuning Cortex - not sure it did any good tbh</li>
+<li>Auto search on any page - just type and search starts</li>
+<li>Added task creation date label</li>
+<li>iCloud Sync log for troubleshooting</li>
+<li>plus quite a few other minor fixes.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b748/Soma-748.zip" type="application/octet-stream" sparkle:edSignature="fnWbv80GYlh31j2Z/O4rdrkAm4swV9sipY9aj0u6bS8Y8j8nnXXkuRC0gzAxTXW7aFAfmYZh9f3R/ozkeIKfDg==" length="66952448"/>
+    </item>
