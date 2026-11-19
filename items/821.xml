@@ -1,0 +1,16 @@
+    <item>
+      <title>Soma 1.0 (821)</title>
+      <pubDate>Thu, 19 Nov 2026 00:15:23 +0000</pubDate>
+      <sparkle:version>821</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (821)</h3><ul>
+<li>New Screenshots space (Mac only): point Soma at your screenshots folder. Screenshots are processed through OCR and become searchable.</li>
+<li>Fine tune Cortex for screenshot processing: “how many screenshots did I take in October?”, “find the screenshot with the BGP table”.</li>
+<li>Share to Soma from your iPhone or iPad: New Note, New Task or Add to Note. New Task is in the Mac’s Share menu too.</li>
+<li>People Hierarchy: Improved layout functionality.</li>
+<li>Taller search boxes everywhere and a wider sidebar.</li>
+<li>Plus quite a few other minor fixes.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b821/Soma-821.zip" type="application/octet-stream" sparkle:edSignature="B4zVmhxp4tNhTGUzg0ZoHMcupMxtIn0zEDhfbPBq9hWi9W8Y3weux/lAim1rMomdx4gzAJI8Ejb/rTP0FkaiCA==" length="67354124"/>
+    </item>
