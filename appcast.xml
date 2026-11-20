@@ -5,6 +5,19 @@
     <link>https://github.com/jamdoran/soma-updates</link>
     <language>en</language>
     <item>
+      <title>Soma 1.0 (830)</title>
+      <pubDate>Fri, 20 Nov 2026 11:51:57 +0000</pubDate>
+      <sparkle:version>830</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (830)</h3><ul>
+<li>To-dos in notes sit closer to their text: no extra space either side of the checkbox.</li>
+<li>Cortex lists notes that mention what you asked about first, newest first, so today’s note comes before one from years ago.</li>
+<li>Screenshots: the search count is now labelled “Search results”.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b830/Soma-830.zip" type="application/octet-stream" sparkle:edSignature="b9ItxCF9/tMZv8abf/7V2+Wys9k7AUR9Xtj5aM5ImRBNz/ahIqwM+ddl95+dgT4K1slF7DrAUIktusvBuB/8CQ==" length="67357377"/>
+    </item>
+    <item>
       <title>Soma 1.0 (821)</title>
       <pubDate>Thu, 19 Nov 2026 00:15:23 +0000</pubDate>
       <sparkle:version>821</sparkle:version>
