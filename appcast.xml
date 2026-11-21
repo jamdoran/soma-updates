@@ -5,6 +5,20 @@
     <link>https://github.com/jamdoran/soma-updates</link>
     <language>en</language>
     <item>
+      <title>Soma 1.0 (855)</title>
+      <pubDate>Sat, 21 Nov 2026 16:51:20 +0000</pubDate>
+      <sparkle:version>855</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (855)</h3><ul>
+<li>Tasks can have contributors: add as many people as you like besides the owner, on Mac, iPhone and iPad. A person’s page lists the tasks they help with, tagged Contributor.</li>
+<li>Clicking a task now opens the full editor straight away.</li>
+<li>Export a person’s work as a PDF report: open tasks (overdue in red), done tasks, projects, plan items, priorities and more, with page numbers.</li>
+<li>Show in Hierarchy glides to the person, and their card grows, wobbles and settles so you can’t miss it.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b855/Soma-855.zip" type="application/octet-stream" sparkle:edSignature="8EAjhGtcwpKjVdowtOlGDJQOl2LrFMrkQ1HwThfxPGrXT9d7D16T+2LJLB9tmJM1KpasvOKni44jTStcp59wCA==" length="67581944"/>
+    </item>
+    <item>
       <title>Soma 1.0 (830)</title>
       <pubDate>Fri, 20 Nov 2026 11:51:57 +0000</pubDate>
       <sparkle:version>830</sparkle:version>
