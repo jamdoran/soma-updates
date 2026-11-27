@@ -5,6 +5,25 @@
     <link>https://github.com/jamdoran/soma-updates</link>
     <language>en</language>
     <item>
+      <title>Soma 1.0 (900)</title>
+      <pubDate>Fri, 27 Nov 2026 11:23:16 +0000</pubDate>
+      <sparkle:version>900</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Soma 1.0 (900)</h3><ul>
+<li>New Decks space (Mac only): Soma finds the decks you have open in PowerPoint, Safari and Chrome and keeps a list of them. Each deck is a card showing the app’s icon (or, for a local file, its first slide), the slide count and when it was last open.</li>
+<li>Organise decks into sets, star favourites, tag them, link them to projects and tasks, and set a reminder to revisit one. If you used Slider, you can bring its library across.</li>
+<li>Soma asks for permission to use PowerPoint, Safari and Chrome the first time the Decks space needs them.</li>
+<li>People &amp; Teams: the search box is now at the top of the sidebar. It narrows the sidebar and the page together, in every list: Everyone, Groups, Hierarchy, a team or a function.</li>
+<li>A person’s page now opens with their details in a card: picture, role, team, function, email (with a copy button) and notes.</li>
+<li>Hierarchy: pick someone in the sidebar, or search down to one person, and the chart jumps straight to them with a quicker, livelier arrival.</li>
+<li>The “Downloading from iCloud” banner is gone on the Mac. Instead, a small cloud after About Soma turns blue when idle, green while syncing and red if a sync fails. Click it for the Sync Log.</li>
+<li>Inbox is now My Inbox. Tasks can also be grouped by due date or by date added in a single list.</li>
+<li>The Settings window is wide enough to show every tab, and the note widget refreshes when Soma starts, with up and down buttons for long notes.</li>
+</ul><p>Soma is still in beta testing. Keep backups on (Settings › Backups).</p>]]></description>
+      <enclosure url="https://github.com/jamdoran/soma-updates/releases/download/b900/Soma-900.zip" type="application/octet-stream" sparkle:edSignature="cXxkN1jz5Nl+B4WURzoyQeVi0jTJ/ijsqSjEqnHHkSJtsKoYUgzFgHiR8Ltx1ssKv2M7iYTFTZvSAmtAmKpGBw==" length="68621087"/>
+    </item>
+    <item>
       <title>Soma 1.0 (855)</title>
       <pubDate>Sat, 21 Nov 2026 16:51:20 +0000</pubDate>
       <sparkle:version>855</sparkle:version>
